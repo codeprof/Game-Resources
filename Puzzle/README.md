@@ -73,11 +73,15 @@ http://glslsandbox.com/e#39234.0
 
 http://glslsandbox.com/e#39234.0
 
+ 
 
 http://glslsandbox.com/e#39264.0
+
 http://glslsandbox.com/e#29611.0
+
 https://www.shadertoy.com/view/MsK3zG
 
+ 
 
 http://glslsandbox.com/e#39187.4
 
@@ -105,5 +109,25 @@ http://glslsandbox.com/e#39486.0
 
 http://glslsandbox.com/e#39446.1
 
+http://glslsandbox.com/e#39449.0
 
+http://glslsandbox.com/e#39472.0
+
+https://www.shadertoy.com/view/XdsXWN
+
+http://glslsandbox.com/e#39489.0
+
+http://glslsandbox.com/e#39494.1
+
+http://glslsandbox.com/e#39532.0
+
+http://glslsandbox.com/e#39559.0
+
+http://glslsandbox.com/e#39552.0
+
+http://glslsandbox.com/e#39611.1
+
+http://glslsandbox.com/e#39606.0
+
+http://glslsandbox.com/e#39622.0
 

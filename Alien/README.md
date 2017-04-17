@@ -24,9 +24,15 @@
 - http://glslsandbox.com/e#39424.0
 - https://www.shadertoy.com/view/4slyRs
 - https://www.shadertoy.com/view/MsdGz2
+- https://www.shadertoy.com/view/Md23Wz
+- https://www.shadertoy.com/view/Xls3D2
+- https://www.shadertoy.com/view/XtX3Rr
+- https://www.shadertoy.com/view/ldXGRX
+- https://www.shadertoy.com/view/XtfSWX
 - 
 - 
-- 
+
+
 
 
 

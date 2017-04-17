@@ -131,3 +131,16 @@ http://glslsandbox.com/e#39606.0
 
 http://glslsandbox.com/e#39622.0
 
+https://www.shadertoy.com/view/lljXWG
+
+https://www.shadertoy.com/view/ldKXzw
+
+https://www.shadertoy.com/view/MdsXDM
+
+https://www.shadertoy.com/view/MdtGRB
+
+https://www.shadertoy.com/view/Xtj3zd
+
+https://www.shadertoy.com/view/Xls3Rl
+
+https://www.shadertoy.com/view/4st3DM
